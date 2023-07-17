@@ -1,9 +1,10 @@
-name: C# Test Automation
+name: Push on develop branch
 
 on:
   push:
     branches:
     - develop
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,10 +17,11 @@ jobs:
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: '6.0.x'  # Replace with the desired .NET Core version
+          dotnet-version: '7.0.x'  # Replace with the desired .NET Core version
 
       - name: Print working directory
         run: pwd
+        
       - name: Restore dependencies
         run: dotnet restore 
 
