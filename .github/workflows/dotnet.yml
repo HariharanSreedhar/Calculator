@@ -27,8 +27,7 @@ jobs:
       - name: Print working directory
         run: pwd
         
-      - name: Restore dependencies
-        run: dotnet restore
+
 
       - name: Build project
         run: dotnet build --configuration Release
