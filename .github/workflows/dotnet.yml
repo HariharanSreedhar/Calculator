@@ -24,10 +24,10 @@ jobs:
       - name: Print working directory
         run: pwd
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore --solution ./Calculator/Calculator.sln
 
       - name: Build project
-        run: dotnet build --configuration Release
+        run: dotnet build --configuration Release --solution ./Calculator/Calculator.sln
 
       - name: Run tests
         run: dotnet test --configuration Release --logger "trx;LogFileName=test_results.trx"
