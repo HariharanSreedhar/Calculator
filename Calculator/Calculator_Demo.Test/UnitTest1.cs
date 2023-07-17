@@ -22,9 +22,9 @@ namespace Calculator_Demo.Test
         public void TwoInput_Subtraction_SutractedResult()
         {
             // Arrange
-            float input1 = 10;
+            float input1 = 5;
             float input2 = 5;
-            float expectedAnswer = 5;
+            float expectedAnswer = 0;
             Calculator calci = new Calculator();
 
             // Act
