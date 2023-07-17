@@ -8,7 +8,7 @@ namespace Calculator_Demo.Test
             // Arrange
             float input1 = 5;
             float input2 = 5;
-            float expectedAnswer = 15;
+            float expectedAnswer = 10;
             Calculator calci = new Calculator();
 
             // Act
