@@ -3,7 +3,7 @@ name: Push on develop branch
 on:
   push:
     branches:
-    - develop
+    - Develop
   workflow_dispatch:
 
 jobs:
