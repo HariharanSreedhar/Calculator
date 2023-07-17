@@ -24,7 +24,7 @@ jobs:
       - name: Print working directory
         run: pwd
       - name: Restore dependencies
-        run: dotnet restore ./Calculator/Calculator.sln
+        run: dotnet restore ./Calculator/Calculator/Calculator.sln
 
 
       - name: Build project
