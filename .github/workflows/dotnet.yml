@@ -1,8 +1,9 @@
 name: Push on develop branch
 
 on:
-  push:
-  workflow_dispatch:
+ push:
+
+ workflow_dispatch:
 
 jobs:
   build:
