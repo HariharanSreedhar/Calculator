@@ -1,0 +1,15 @@
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\bin\Debug\net7.0\Calculator_Demo.exe
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\bin\Debug\net7.0\Calculator_Demo.deps.json
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\bin\Debug\net7.0\Calculator_Demo.runtimeconfig.json
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\bin\Debug\net7.0\Calculator_Demo.dll
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\bin\Debug\net7.0\Calculator_Demo.pdb
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\Calculator_Demo.csproj.AssemblyReference.cache
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\Calculator_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\Calculator_Demo.AssemblyInfoInputs.cache
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\Calculator_Demo.AssemblyInfo.cs
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\Calculator_Demo.csproj.CoreCompileInputs.cache
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\Calculator_Demo.dll
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\refint\Calculator_Demo.dll
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\Calculator_Demo.pdb
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\Calculator_Demo.genruntimeconfig.cache
+C:\Projects\Starter Repo\test\demo console\Calculator_Demo\Calculator_Demo\obj\Debug\net7.0\ref\Calculator_Demo.dll
