@@ -1,9 +1,9 @@
 name: C# Test Automation
 
 on:
-  workflow_dispatch:
+  push:
     branches:
-      - develop
+    - develop
 
 jobs:
   build:
