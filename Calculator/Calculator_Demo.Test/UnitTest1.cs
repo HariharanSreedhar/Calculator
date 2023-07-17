@@ -6,7 +6,7 @@ namespace Calculator_Demo.Test
         public void TwoInput_Addition_AddedResult()
         {
             // Arrange
-            float input1 = 10;
+            float input1 = 5;
             float input2 = 5;
             float expectedAnswer = 15;
             Calculator calci = new Calculator();

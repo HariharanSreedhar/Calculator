@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo.Test\\Calculator_Demo.Test.csproj": {}
+    "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo.Test\\Calculator_Demo.Test.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo.Test\\Calculator_Demo.Test.csproj": {
+    "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo.Test\\Calculator_Demo.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo.Test\\Calculator_Demo.Test.csproj",
+        "projectUniqueName": "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo.Test\\Calculator_Demo.Test.csproj",
         "projectName": "Calculator_Demo.Test",
-        "projectPath": "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo.Test\\Calculator_Demo.Test.csproj",
+        "projectPath": "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo.Test\\Calculator_Demo.Test.csproj",
         "packagesPath": "C:\\Users\\hariharan.sreedhar\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo.Test\\obj\\",
+        "outputPath": "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo\\Calculator_Demo.csproj": {
-                "projectPath": "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo\\Calculator_Demo.csproj"
+              "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo\\Calculator_Demo.csproj": {
+                "projectPath": "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo\\Calculator_Demo.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo\\Calculator_Demo.csproj": {
+    "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo\\Calculator_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo\\Calculator_Demo.csproj",
+        "projectUniqueName": "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo\\Calculator_Demo.csproj",
         "projectName": "Calculator_Demo",
-        "projectPath": "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo\\Calculator_Demo.csproj",
+        "projectPath": "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo\\Calculator_Demo.csproj",
         "packagesPath": "C:\\Users\\hariharan.sreedhar\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Starter Repo\\test\\demo console\\Calculator_Demo\\Calculator_Demo\\obj\\",
+        "outputPath": "C:\\Projects\\Starter Repo\\test\\GitLocal1\\Calci repo\\Calculator\\Calculator\\Calculator_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
